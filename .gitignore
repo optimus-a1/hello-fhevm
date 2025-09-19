@@ -1,0 +1,8 @@
+node_modules
+.env
+dist
+typechain-types
+artifacts
+cache
+.GitHub
+.DS_Store
